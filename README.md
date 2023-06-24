@@ -1,1 +1,1 @@
-# lazyearning
+# LazyEarnings
